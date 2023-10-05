@@ -25,3 +25,29 @@ header > h1{
     font-size: 4rem;
     border-bottom: 2px solid rgb(187, 249, 251);
 }
+
+nav{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid rgb(187, 249, 251);
+}
+
+nav > ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+nav > ul > li > a{
+    font-size: 1.7rem;
+    color:rgb(0, 255, 115);
+    text-decoration: none;
+}
+
+nav > ul > li > a:hover{
+
+    color:rgb(208, 255, 229);
+    
+}
