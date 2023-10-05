@@ -25,3 +25,75 @@ header > h1{
     font-size: 4rem;
     border-bottom: 2px solid rgb(187, 249, 251);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: rgb(83, 83, 202);
+    padding: 30px;
+}
+
+footer > h2{
+    font-size: 3rem;
+    text-align: center;
+}
+
+footer > div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer > div > a{
+
+    padding-top: 20px;
+    font-size: 1.4rem;
+    color: rgb(0, 241, 92);
+    text-decoration: none;
+}
