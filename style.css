@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+html{
+    background-color:bisque;
+    font-size: 62.5%;
+}
+
+body{
+    width: 80%;
+    min-height: 100vh;
+    margin: 0 auto;
+    background-color:cadetblue;
+}
+
+header > h1{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0 10px;
+    font-size: 4rem;
+    border-bottom: 2px solid rgb(187, 249, 251);
+}
